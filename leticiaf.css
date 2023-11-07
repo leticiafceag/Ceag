@@ -1,10 +1,14 @@
 body {
   background-color: dark green;
   text-align: center;
+     }
+
+h1 { color: light green;
 }
 
-h1 {
-  color: light green;
+p { color: black;
 }
 
+h2 { color: light green;
+}
   
