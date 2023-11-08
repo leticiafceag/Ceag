@@ -1,5 +1,5 @@
 body {
-  background-color: dark green;
+  background-color: dark blue;
   text-align: center;
      }
 
@@ -9,6 +9,14 @@ h1 { color: light green;
 p { color: black;
 }
 
-h2 { color: light green;
+h2 { color: yellow;
 }
-  
+
+h3 { color: yellow;
+}
+
+h4 { color: yellow;
+}
+
+h5 { color: yellow;
+}
